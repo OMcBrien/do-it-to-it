@@ -7,3 +7,5 @@ Potential changes could include:
  - Setting a timer on when tasks should be achieved by
  - Working out how long is left on tasks, given deadline
  - Outputting task list in printable format
+ - Creating a 'login' so multiple users have access
+ - Pushing to heroku
